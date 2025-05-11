@@ -7,10 +7,10 @@ from telegram.ext import Application, CommandHandler, ContextTypes, MessageHandl
 from telegram.constants import ParseMode
 from telegram.error import BadRequest, Forbidden
 
-BOT_TOKEN = '7905551849:AAG9Boyeic01sVCu2vpgqw7ST5Xo2I8HdNc'
-CHANNEL_ID = '@rtyuigtyui'
-ADMIN_USER_ID = 383356129
-DRUMKIT_FILE_PATH = '/Users/arseniy/Documents/GitHub/bot-for-shazy/IMG_6019.JPG'
+BOT_TOKEN = '
+CHANNEL_ID = 
+ADMIN_USER_ID = 
+DRUMKIT_FILE_PATH = 
 MESSAGE_TEXT = """
 Спасибо за подписку! 🔥
 
